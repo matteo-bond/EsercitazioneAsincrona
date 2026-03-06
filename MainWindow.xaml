@@ -7,6 +7,9 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
+        <Button Content="Button" HorizontalAlignment="Left" Height="58" Margin="131,262,0,0" VerticalAlignment="Top" Width="167"/>
+        <Label name="numero"  Content="Label" HorizontalAlignment="Left" Height="86" Margin="64,67,0,0" VerticalAlignment="Top" Width="234" Background="#FFFEFF92"/>
+        <Label Content="Label" HorizontalAlignment="Left" Height="86" Margin="473,67,0,0" VerticalAlignment="Top" Width="234" Background="#FFFEFF92"/>
 
     </Grid>
 </Window>
